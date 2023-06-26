@@ -1,0 +1,162 @@
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\Code\MS VSS\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\Code\MS VSS\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\8PuzzleGame2\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Users\Nhokv\Downloads\8PuzzleGame2\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\Code\MS VSS\8PuzzleGame3\8PuzzleGame3\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+D:\Persional Docs\4601104119 - Nhóm zero - 8PuzzleGame - updated\8PuzzleGame - source\8PuzzleGame\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.exe
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.deps.json
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.runtimeconfig.json
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\bin\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.AssemblyReference.cache
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Form1.resources
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.Properties.Resources.resources
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.GenerateResource.cache
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfoInputs.cache
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.AssemblyInfo.cs
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.csproj.CoreCompileInputs.cache
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\refint\PuzzleGame.dll
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.pdb
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\PuzzleGame.genruntimeconfig.cache
+C:\Users\Nhokv\Downloads\PuzzleGame\PuzzleGame\obj\Debug\net6.0-windows\ref\PuzzleGame.dll
